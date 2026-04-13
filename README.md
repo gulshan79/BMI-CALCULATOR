@@ -11,3 +11,5 @@ This is BMI Calculator project which is based on HTML,CSS and javaScript
 // BMI calculate hota hai
 //         ↓
 // Result screen par dikh jata hai
+
+file:///E:/gulshan%20DATA/coding%20only/webdev/domwithchai/BMI%20CALCULATOR/project2.html
